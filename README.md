@@ -1,5 +1,5 @@
 # Ridesharing-App
-An uber like ridesharing App 
+An Android app built to learn how some features of a ridesharing apps like Uber work.
 
 
 <h2>SCREENSHOTS </h2>
